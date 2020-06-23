@@ -1,3 +1,2 @@
 # Jit-Woon-Python-code
-Jupyter Notebooks (The complete Python Bootcamp - Pierian Data)
-Problem sets are from the following course, and I have included my solutions.
+These are my solutions to the problem sets taken from The Complete Python 3 Bootcamp (Udemy).
