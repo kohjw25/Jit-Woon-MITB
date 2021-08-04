@@ -1,2 +1,2 @@
 # Jit-Woon-Python-code
-Various Problem sets and assignments  
+Social Analytics project - Investigating the popularity of Airbnb Listings in Singapore
